@@ -1,4 +1,3 @@
-[![Board Status](https://dev.azure.com/be483/cdae680d-5840-481c-a09e-56fe9cd97f0d/19ec964e-c71f-4c51-a212-e0f719557f63/_apis/work/boardbadge/eb8f3a7f-88ed-4db5-959b-ae85ce1a2f2a)](https://dev.azure.com/be483/cdae680d-5840-481c-a09e-56fe9cd97f0d/_boards/board/t/19ec964e-c71f-4c51-a212-e0f719557f63/Microsoft.RequirementCategory)
 
 # Contributing
 [![Build Status](https://dev.azure.com/be483/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/be483/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=feature%2Fhome-page-text)
